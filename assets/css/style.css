@@ -333,7 +333,7 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
 .info-content .name {
@@ -953,6 +953,10 @@ main {
 
 .project-item > a { width: 100%; }
 
+.img-radius {
+  border-radius: 16px;
+}
+
 .project-img {
   position: relative;
   width: 100%;
@@ -1337,7 +1341,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 15px; }
 
   .avatar-box img { width: 120px; }
 
